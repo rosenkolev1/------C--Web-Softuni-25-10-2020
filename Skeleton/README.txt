@@ -1,0 +1,1 @@
+Направих на Repositories/All да се показват и private repositories за съответния user, който се е логнал в момента(ако има такъв).
